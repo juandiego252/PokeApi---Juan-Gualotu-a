@@ -5,7 +5,7 @@
 * Alejandro Moreira
 * Heyer Tinoco
 * Juan Falconi
-* Juan Gualotiña
+* Juan Gualotuña
 * Miguel Paredes
 
 # Captura 
